@@ -1,1 +1,3 @@
 tested the components
+
+tested all the files 
